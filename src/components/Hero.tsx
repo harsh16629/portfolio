@@ -16,8 +16,8 @@ export default function Hero() {
           />
       <div className="container max-w-4xl mx-auto text-center">
         <h1 className="text-6xl font-bold mb-6">Harsh Singh</h1>
-        <h2 className="text-4xl font-semibold mb-4">AI Engineer | Web Developer | Web Automation </h2>
-        <p className="text-xl mb-8">Crafting gorgeous and practical web experiences</p>
+        <h2 className="text-2xl font-semibold mb-4">AI Engineer | Web Developer | Web Automation </h2>
+        <p className="text-lg mb-8">Crafting gorgeous and practical web experiences</p>
         <Button size="lg">
           View My Work
           <ArrowRight className="ml-2 h-4 w-4" />
