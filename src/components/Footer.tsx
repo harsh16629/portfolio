@@ -10,7 +10,7 @@ export default function Footer() {
         <div className="flex space-x-4">
           <a href="https://github.com/harsh16629" className="hover:text-primary transition-colors"><Github /></a>
           <a href="https://www.linkedin.com/in/harsh-singh-work/" className="hover:text-primary transition-colors"><Linkedin /></a>
-          <a href="#" className="hover:text-primary transition-colors"><Twitter /></a>
+          
         </div>
       </div>
     </footer>
