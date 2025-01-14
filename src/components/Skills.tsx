@@ -1,5 +1,5 @@
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
-import { Code, Palette, Database, BrainCog, BrainCircuit, PanelTop } from 'lucide-react'
+import { Code, Palette, Database, BrainCog, PanelTop } from 'lucide-react'
 
 const skills = [
   { name: 'AI Tools', icon: BrainCog, description: 'OpenAI APIs, TensorFlow, Python, PyTorch' },
