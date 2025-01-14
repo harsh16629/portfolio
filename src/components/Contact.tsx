@@ -7,7 +7,7 @@ export default function Contact() {
   return (
     <section id="contact" className="py-20 px-6 bg-muted/50">
       <div className="container max-w-6xl mx-auto">
-        <h2 className="text-6xl font-bold mb-12 text-center">Get In Touch</h2>
+        <h2 className="text-6xl font-bold mb-12 mr-20 text-right">Get In Touch</h2>
         <div className="flex flex-col md:flex-row gap-8 items-center">
           <div className="w-full md:w-1/2">
             <Image
