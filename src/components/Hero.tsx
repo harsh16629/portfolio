@@ -23,13 +23,13 @@ export default function Hero() {
           <ArrowRight className="ml-2 h-4 w-4" />
         </Button>
       </div>
-      <Image
+      {/* <Image
             src="/images/hero_img2.svg"
             alt="Right hero image"
             width={300}
             height={300}
             className="rounded-full"
-          />
+          /> */}
           </div>
           </div>
     </section>
