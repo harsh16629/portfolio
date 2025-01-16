@@ -5,7 +5,7 @@ import Link from 'next/link'
 
 const projects = [
   { name: 'Brain metastasis segmentation using Deep Learning', description: 'Comparing Deep Learning architectures for brain MRI metastasis segmentation.', image: '/images/brain.svg', link: "https://github.com/harsh16629/brain-MRI-metastasis-segmentation-using-deep-learning" },
-  { name: 'Portfolio Website', description: 'A responsive portfolio for a lawyer', image: '/images/law2.svg', link: "#" },
+  { name: 'Portfolio Website', description: 'A responsive portfolio for a lawyer', image: '/images/law2.svg', link: "https://github.com/harsh16629/lawyer-portfolio" },
   { name: 'Feed Optimizer', description: 'Automated script to reimagine your social media feed', image: '/images/social-media.svg', link:"https://github.com/harsh16629/Feed-Optimizer" },
 ]
 
