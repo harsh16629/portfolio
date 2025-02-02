@@ -14,7 +14,9 @@ export default function Header() {
             <li><Link href="#contact" className="hover:text-primary transition-colors">Contact</Link></li>
           </ul>
         </nav>
-        <Button variant="outline">Resume</Button>
+        <Link href="https://drive.google.com/file/d/1YzZfc4-XQXIK7Ke2pcd285aebAwlLhLq/view?usp=sharing" download>
+          <Button variant="outline">Resume</Button>
+        </Link>
       </div>
     </header>
   )
