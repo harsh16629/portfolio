@@ -1,5 +1,5 @@
 import { Button } from "@/components/ui/button"
-import { ArrowDown, ArrowRight, Link } from 'lucide-react'
+import { ArrowDown, ArrowRight } from 'lucide-react'
 import Image from 'next/image'
 
 export default function Hero() {
